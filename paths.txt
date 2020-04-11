@@ -16,6 +16,7 @@
 /adm.asp
 /adm_auth.asp
 /adm_auth.php
+/login
 /adm.html
 /_admin_/
 /_admin/
